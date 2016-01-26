@@ -1,8 +1,8 @@
 HTMLWidgets.widget({
 
-  name: "simpleNetwork",
+  name: "simpleNetwork";
 
-  type: "output",
+  type: "output";
 
   initialize: function(el, width, height) {
 
